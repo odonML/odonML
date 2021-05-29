@@ -1,6 +1,6 @@
 # Hi, I am OdonML 👋
 
-<img align="right" alt="face" height="400px" style="border-radius: 50px" src="https://cdn.discordapp.com/attachments/848325427259768902/848338174677876746/odonML.jpg" />
+<img align="right" alt="face" height="400px" style="border-radius: 50px" src="https://cdn.discordapp.com/attachments/848325427259768902/848341277199171584/1.png" />
 
 ## I'm a Computer Science and Engineering Student  
 - 🔭 I’m currently working on.
