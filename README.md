@@ -1,6 +1,6 @@
 # Hola, Soy <a href="https://odonml.vercel.app" target="_blank">OdonML</a> 💻
 
-<img align="right" alt="face" height="370px" style="border-radius: 50px" src="https://cdn.discordapp.com/attachments/848325427259768902/848341277199171584/1.png" />
+<img align="right" alt="face" height="350px" style="border-radius: 50px" src="https://cdn.discordapp.com/attachments/848325427259768902/848374803131006996/banner.jpg" />
 
 ### Soy Mexicano, Ing. en Sistemas, Frontend Developer e Ilustrador Aficionado.
 
