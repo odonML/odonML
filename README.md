@@ -6,7 +6,7 @@
 
 - 🔭 Trabajo en: null (buscando trabajo).
 - 🌱 Estoy aprendiendo: React, Vue.js, Flutter, JAVA. 
-- 👯 Colaboro en: <a href="https://discord.gg/wQVe5QPNv9" target="_blank">Lords Of Software</a>
+- 👯 Colaboro en: <a href="https://discord.gg/wQVe5QPNv9" target="_blank">Devu</a>
 - 📚 Comparto documentacion en: <a href="https://dev.to/odonml" target="_blank">Dev.to</a>
 - 📝 Mis apuntes de: <a href="#" target="_blank">Notion</a>
 - 🖌️ Comparto mis diseños en: <a href="https://www.behance.net/odonml" target="_blank">Behance</a> 
