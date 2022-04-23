@@ -5,10 +5,11 @@
 ### Soy Mexicano, Ing. en Sistemas, Frontend Developer e Ilustrador Aficionado.
 
 - 🔭 Trabajo en: Axity
-- 🌱 Estoy aprendiendo: React, Vue.js, Flutter, JAVA. 
+<!-- - 🌱 Estoy aprendiendo:.  -->
+- 🤓 Mentor en: <a href="https://kodemia.mx/" target="_blank">Kodemia</a>
 - 👯 Colaboro en: <a href="https://discord.gg/wQVe5QPNv9" target="_blank">Devu</a>
 - 📚 Comparto documentacion en: <a href="https://dev.to/odonml" target="_blank">Dev.to</a>
-- 📝 Mis apuntes de: <a href="#" target="_blank">Notion</a>
+<!-- - 📝 Mis apuntes de: <a href="#" target="_blank">Notion</a> -->
 - 🖌️ Comparto mis diseños en: <a href="https://www.behance.net/odonml" target="_blank">Behance</a> 
 - 🌐 Comparto recursos en: <a href="https://twitter.com/odonML" target="_blank">Twitter</a> 
 
