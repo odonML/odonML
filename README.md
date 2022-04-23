@@ -4,7 +4,7 @@
 
 ### Soy Mexicano, Ing. en Sistemas, Frontend Developer e Ilustrador Aficionado.
 
-- 🔭 Trabajo en: null (buscando trabajo).
+- 🔭 Trabajo en: Axity
 - 🌱 Estoy aprendiendo: React, Vue.js, Flutter, JAVA. 
 - 👯 Colaboro en: <a href="https://discord.gg/wQVe5QPNv9" target="_blank">Devu</a>
 - 📚 Comparto documentacion en: <a href="https://dev.to/odonml" target="_blank">Dev.to</a>
