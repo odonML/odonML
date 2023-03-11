@@ -5,7 +5,7 @@
 ### Soy Mexicano, Ing. en Sistemas, Frontend Developer e Ilustrador Aficionado.
 
 - 🔭 Frontend developer en: Axity
-- 🤓 Mentor en: <a href="https://kodemia.mx/" target="_blank">Kodemia</a>
+<!-- - 🤓 Mentor en: <a href="https://kodemia.mx/" target="_blank">Kodemia</a> -->
 - 👯 Colaboro en: <a href="https://discord.gg/wQVe5QPNv9" target="_blank">Devu</a>
 - 📚 Comparto documentacion en: <a href="https://dev.to/odonml" target="_blank">Dev.to</a>
 - 🖌️ Comparto mis diseños en: <a href="https://www.behance.net/odonml" target="_blank">Behance</a> 
