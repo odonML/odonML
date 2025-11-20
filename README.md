@@ -2,11 +2,11 @@
 
 <img align="right" alt="face" height="350px" style="border-radius: 50px" src="https://github.com/odonML/odonML/blob/main/1.png" />
 
-### Mexicano, Ing. en Sistemas, FullStack Developer, SCM - Git & Github, Co-fundador de Devu, Fotografo Aficionado  e Ilustrador Aficionado.
+### Mexicano, Ing. en Sistemas, FullStack Developer, SCM - Git & Github, Co-fundador de <a href="https://www.devu.community" target="_blank">Devu</a>, Fotografo Aficionado  e Ilustrador Aficionado.
 
 - 🔭 Frontend developer en: Axity
 <!-- - 🤓 Mentor en: <a href="https://kodemia.mx/" target="_blank">Kodemia</a> -->
-- 👯 Colaboro en: <a href="[https://discord.gg/wQVe5QPNv9](https://www.devu.community)" target="_blank">Devu</a>
+- 👯 Colaboro en: <a href="https://www.devu.community" target="_blank">Devu</a>
 - 📚 Comparto documentacion en: <a href="https://dev.to/odonml" target="_blank">Dev.to</a>
 - 🖌️ Comparto mis diseños en: <a href="https://www.behance.net/odonml" target="_blank">Behance</a> 
 - 🌐 Comparto recursos en: <a href="https://twitter.com/odonML" target="_blank">Twitter</a> 
