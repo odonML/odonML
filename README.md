@@ -5,7 +5,6 @@
 ### Mexicano, Ing. en Sistemas, Co-fundador de <a href="https://www.devu.community" target="_blank">Devu</a>, Fotografo Aficionado  e Ilustrador Aficionado.
 
 - 🔭 FullStack Developer, SCM - Git & Github en: <a href="https://axity.com" target="_blank">Axity</a> 
-<!-- - 🤓 Mentor en: <a href="https://kodemia.mx/" target="_blank">Kodemia</a> -->
 - 👯 Colaboro en: <a href="https://www.devu.community" target="_blank">Devu</a>
 - 📚 Comparto documentacion en: <a href="https://dev.to/odonml" target="_blank">Dev.to</a>
 - 🖌️ Comparto mis diseños en: <a href="https://www.behance.net/odonml" target="_blank">Behance</a> 
