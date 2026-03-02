@@ -9,6 +9,7 @@
 - 📚 Comparto documentacion en: <a href="https://dev.to/odonml" target="_blank">Dev.to</a>
 - 🖌️ Comparto mis diseños en: <a href="https://www.behance.net/odonml" target="_blank">Behance</a> 
 - 🌐 Comparto recursos en: <a href="https://twitter.com/odonML" target="_blank">Twitter</a> 
+<img align="left" alt="github fundations badge" height="50px" src="https://github.com/odonML/odonML/blob/main/GitHub Foundations Badge.png" />
 
 <!-- - 📝 Mis apuntes de: <a href="#" target="_blank">Notion</a> -->
 <!-- - 🌱 Estoy aprendiendo:.  -->
