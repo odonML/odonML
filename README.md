@@ -1,42 +1,42 @@
-# :copilot: Hola, Soy <a href="https://odonml.vercel.app" target="_blank">OdonML</a> 💻 
+# :octocat: Hi there! I'm <a href="https://odonml.vercel.app" target="_blank">OdonML</a>👋 💻 
 
-<img align="right" alt="face" height="350px" style="border-radius: 50px" src="https://github.com/odonML/odonML/blob/main/1.png" />
+<img align="right" alt="face" height="350px" style="border-radius: 50px" src="https://github.com/odonML/odonML/blob/main/ilustration.png" />
 
-### Mexicano, Ing. en Sistemas, Co-fundador de <a href="https://www.devu.community" target="_blank">Devu</a>, Fotografo Aficionado  e Ilustrador Aficionado.
+### Fullstack Developer (6+ years) & SCM - GitHub at Axity | Aspiring DevOps & Cloud Engineer
 
-- 🔭 FullStack Developer, SCM - Git & Github en: <a href="https://axity.com" target="_blank">Axity</a> 
-- 👯 Colaboro en: <a href="https://www.devu.community" target="_blank">Devu</a>
-- 📚 Comparto documentacion en: <a href="https://dev.to/odonml" target="_blank">Dev.to</a>
-- 🖌️ Comparto mis diseños en: <a href="https://www.behance.net/odonml" target="_blank">Behance</a> 
-- 🌐 Comparto recursos en: <a href="https://twitter.com/odonML" target="_blank">Twitter</a>
+- 🚀 **Current Focus:** Transitioning into **DevOps** to optimize CI/CD workflows and system scalability.
+- 🎓 **Certifications in Progress:** `GitHub Actions` • `AWS` • `Terraform` • `Kubernetes`
+- 👥 **Community Leader:** Co-founder of **Devu**, inspiring developers through talks and workshops.
+- 🛠️ **Tech Stack:** Angular, React, Node.js, Python & Bash.
+- 📸 **Fun Fact:** I'm passionate about photography and design. When I'm not at my desk, I'm probably out walking with my dog! 🐕.
 
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/OdonMizrrainLozadaCarrasco-4206/A49BC9BDE0409218?sharingId=9A0CA0A4759AFD70" target="_blank">
 <img aling="left" alt="github fundations badge" height="150px" src="https://github.com/odonML/odonML/blob/main/GitHub Foundations Badge.png" />
+</a>
 
-<!-- - 📝 Mis apuntes de: <a href="#" target="_blank">Notion</a> -->
-<!-- - 🌱 Estoy aprendiendo:.  -->
+### 🛠️ DevOps & Automation (in Progress):
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
 ### Lenguajes Y Herramientas 🛠 
+<p align="left">
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Illustrator](http://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=ffffff)
-![Photoshop](http://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff)
-<!--![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)-->
-<!--![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)-->
-<!--![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)-->
-<!--![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)-->
-<!--![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)-->
-<!--![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)-->
-<!--![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)-->
-<!--![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)-->
-<!--![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)-->
-<!--![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)-->
