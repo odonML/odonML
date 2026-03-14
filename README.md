@@ -10,10 +10,6 @@
 - 🛠️ **Tech Stack:** Angular, React, Node.js, Python & Bash.
 - 📸 **Fun Fact:** I'm passionate about photography and design. When I'm not at my desk, I'm probably out walking with my dog! 🐕.
 
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/OdonMizrrainLozadaCarrasco-4206/A49BC9BDE0409218?sharingId=9A0CA0A4759AFD70" target="_blank">
-<img aling="left" alt="github fundations badge" height="150px" src="https://github.com/odonML/odonML/blob/main/GitHub Foundations Badge.png" />
-</a>
-
 ### 🛠️ DevOps & Automation (in Progress):
 <p align="left">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -22,8 +18,13 @@
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### Lenguajes Y Herramientas 🛠 
+### 🛠️ Lenguajes Y Herramientas
 <p align="left">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -33,10 +34,10 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </p>
 
+<p align="center">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/OdonMizrrainLozadaCarrasco-4206/A49BC9BDE0409218?sharingId=9A0CA0A4759AFD70" target="_blank">
+<img alt="github fundations badge" height="100px" src="https://github.com/odonML/odonML/blob/main/GitHub Foundations Badge.png" />
+</a>
+</p>
