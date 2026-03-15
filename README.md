@@ -1,6 +1,6 @@
 # :octocat: Hi there! I'm <a href="https://odonml.vercel.app" target="_blank">OdonML</a>👋 💻 
 
-<img align="right" alt="face" height="350px" style="border-radius: 50px" src="./ilustration.png" />
+<img align="right" alt="face" height="350px" style="border-radius: 50px" src="https://github.com/odonML/odonML/blob/main/ilustration.png" />
 
 
 ### Fullstack Developer (6+ years) & SCM - GitHub at Axity | Aspiring DevOps & Cloud Engineer
