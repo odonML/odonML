@@ -1,6 +1,7 @@
 # :octocat: Hi there! I'm <a href="https://odonml.vercel.app" target="_blank">OdonML</a>👋 💻 
 
-<img align="right" alt="face" height="350px" style="border-radius: 50px" src="https://github.com/odonML/odonML/blob/main/ilustration.png" />
+<img align="right" alt="face" height="350px" style="border-radius: 50px" src="./ilustration.png" />
+
 
 ### Fullstack Developer (6+ years) & SCM - GitHub at Axity | Aspiring DevOps & Cloud Engineer
 
@@ -36,8 +37,3 @@
 <img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-<p align="center">
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/OdonMizrrainLozadaCarrasco-4206/A49BC9BDE0409218?sharingId=9A0CA0A4759AFD70" target="_blank">
-<img alt="github fundations badge" height="100px" src="https://github.com/odonML/odonML/blob/main/GitHub Foundations Badge.png" />
-</a>
-</p>
