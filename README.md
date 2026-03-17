@@ -1,4 +1,4 @@
-# :octocat: Hi there! I'm <a href="https://odonml.vercel.app" target="_blank">OdonML</a>👋 💻 
+# :octocat: Hi there! I'm <a href="https://odonml.github.io" target="_blank">OdonML</a>👋 💻 
 
 <img align="right" alt="face" width="350px" style="border-radius: 50px" src="https://github.com/odonML/odonML/blob/main/ilustration.png" />
 
