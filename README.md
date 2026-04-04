@@ -3,10 +3,10 @@
 <img align="right" alt="face" width="350px" style="border-radius: 50px" src="https://github.com/odonML/odonML/blob/main/ilustration.png" />
 
 
-### Fullstack Developer (6+ years) & SCM - GitHub at Axity | Aspiring DevOps & Cloud Engineer
+### Fullstack Developer (6+ years) & SCM - GitHub (GCA & GCF) at Axity | Aspiring DevOps & Cloud Engineer
 
 - 🚀 **Current Focus:** Transitioning into **DevOps** to optimize CI/CD workflows and system scalability.
-- 🎓 **Certifications in Progress:** `GitHub Actions` • `AWS` • `Terraform` • `Kubernetes`
+- 🎓 **Certifications in Progress:** `Terraform` • `AWS` • `Kubernetes`
 - 👥 **Community Leader:** Co-founder of **Devu**, inspiring developers through talks and workshops.
 - 🛠️ **Tech Stack:** Angular, React, Node.js, Python & Bash.
 - 📸 **Fun Fact:** I'm passionate about photography and design. When I'm not at my desk, I'm probably out walking with my dog! 🐕.
